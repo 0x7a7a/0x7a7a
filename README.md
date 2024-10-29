@@ -1,20 +1,14 @@
+## 🌖 About
+I am 0x7a7a, a full-stack developer and a passing Kamen Rider!
+
+My main programming languages are `Go` and TypeScript, but I'm currently quite interested in Zig as well.
+
+Nvim is my favorite editor, and when I'm not writing code, I'm usually fiddling around with my Nvim editor, just like any other Nvim enthusiast.
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x7a7a/0x7a7a/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x7a7a/0x7a7a/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0x7a7a/0x7a7a/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!--
-**0x7a7a/0x7a7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
