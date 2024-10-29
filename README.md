@@ -1,7 +1,7 @@
 ## 🌖 About
 I am 0x7a7a, a full-stack developer and a passing Kamen Rider!
 
-My main programming languages are `Go` and TypeScript, but I'm currently quite interested in Zig as well.
+My main programming languages are Go and TypeScript, but I'm currently quite interested in Zig as well.
 
 Nvim is my favorite editor, and when I'm not writing code, I'm usually fiddling around with my Nvim editor, just like any other Nvim enthusiast.
 
