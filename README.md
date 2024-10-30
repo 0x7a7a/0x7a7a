@@ -3,7 +3,7 @@ I am 0x7a7a, a full-stack developer and a passing Kamen Rider!
 
 My main programming languages are Go and TypeScript, but I'm currently quite interested in Zig as well.
 
-Nvim is my favorite editor, and when I'm not writing code, I'm usually fiddling around with my Nvim editor.
+When I'm not writing code, I like to fiddle around with my Nvim editor.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x7a7a/0x7a7a/output/github-contribution-grid-snake-dark.svg">
